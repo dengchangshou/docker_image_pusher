@@ -6,3 +6,4 @@ bitnami/kafka:3.4.0
 mariadb:10.4.27-focal
 nacos/nacos-server:v2.2.0
 redis:7.0.8
+provectuslabs/kafka-ui
